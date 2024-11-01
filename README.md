@@ -1,0 +1,1 @@
+Here is the androidmainfest.xml ,activity_main.xml,activity_main.java .This the code for basic notes app where you can add only one note and save it.You can also share it using share button in the bottom.
